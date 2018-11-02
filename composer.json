@@ -1,0 +1,12 @@
+{
+    "name": "pambuk/test-getting-required",
+    "description": "Test getting required",
+    "type": "library",
+    "authors": [
+        {
+            "name": "pambuk",
+            "email": "wojtek.zymonik@gmail.com"
+        }
+    ],
+    "require": {}
+}
